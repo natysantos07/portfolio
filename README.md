@@ -1,18 +1,21 @@
 # 👋 Olá! Eu sou a Natalia Souza
 
-## 🚀 Desenvolvedor NoCode/LowCode | Especialista em Bubble & N8N
+## 🚀 Desenvolvedora NoCode/LowCode | Especialista em Bubble & N8N
 
 Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais de 7 anos de experiência em tecnologia. Atualmente atuo como **Desenvolvedora Bubble Pleno**.
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **NoCode/LowCode Platforms**
 ![Bubble](https://img.shields.io/badge/Bubble-4285F4?style=for-the-badge&logo=bubble&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Bancos de Dados**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Integração & APIs**
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
@@ -21,6 +24,7 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 ### **Outras Tecnologias**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
 ## 🎯 Projetos em Destaque
@@ -52,20 +56,46 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 - **Descrição:** Sistema completo de gerenciamento de leads e vendas
 - **Links:** [Web](https://leadmaster.flutterflow.app/) | [Mobile](https://app-leadmaster.flutterflow.app/)
 
+**🏥 AgenClinic** - *CRM para Clínicas*
+- **Link:** [clinicalessan.flutterflow.app](https://clinicalessan.flutterflow.app/)
+
 ### 🏥 **Sistemas de Gestão**
 
-- **🦷 OdontoApp** - ERP para Clínicas Odontológicas
-- **💅 GlamBeauty** - CRM para Clínicas de Estética  
-- **📈 Gestão 360** - CRM Marketing Completo
-- **🎪 Mercado Infantil** - E-commerce com gestão de eventos
-- **⏰ Sigatend** - Sistema de gestão de filas e atendimento
+**🦷 OdontoApp** - *ERP para Clínicas Odontológicas*
+- **Link:** [odontoapp-13281.bubbleapps.io](https://odontoapp-13281.bubbleapps.io/version-test/ambiente_clinica?debug_mode=true)
+
+**💅 GlamBeauty** - *CRM para Clínicas de Estética*
+- **Link:** [gestobeleza.bubbleapps.io](https://gestobeleza.bubbleapps.io/version-test/saas/sample:user?debug_mode=true)
+
+**📈 Gestão 360** - *CRM Marketing Completo*
+- **Link:** [gesto-360.bubbleapps.io](https://gesto-360.bubbleapps.io/version-test/)
+
+**🎪 Mercado Infantil** - *E-commerce com gestão de eventos*
+- **Link:** [mercadoinfantil.app](https://mercadoinfantil.app/version-test)
+
+**⏰ Sigatend** - *Sistema de gestão de filas e atendimento*
+- **Link:** [sigatend.com.br](https://sigatend.com.br/login)
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🔑 **Acessos para Demonstração**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+> **🚀 Teste meus sistemas! Use os acessos abaixo para explorar as funcionalidades completas.**
+
+### **Sistemas com Acesso Liberado:**
+
+| Sistema | Link | Login | Senha |
+|---------|------|-------|-------|
+| **🦷 OdontoApp** | [Acessar Sistema](https://odontoapp-13281.bubbleapps.io/version-test/ambiente_clinica?debug_mode=true) | `natech@natech.com.br` | `Natech!` |
+| **💅 GlamBeauty** | [Acessar Sistema](https://gestobeleza.bubbleapps.io/version-test/saas/sample:user?debug_mode=true) | `natech@natech.com.br` | `Natech!` |
+| **📈 Gestão 360** | [Acessar Sistema](https://gesto-360.bubbleapps.io/version-test/) | `natech@natech.com.br` | `Natech!` |
+
+### **Sistemas de Acesso Público:**
+- **🎪 Mercado Infantil:** [mercadoinfantil.app/version-test](https://mercadoinfantil.app/version-test)
+- **💎 Precyus:** [precyus.com](https://precyus.com/#sobre)
+- **📊 Lead Master Web:** [leadmaster.flutterflow.app](https://leadmaster.flutterflow.app/)
+- **📱 Lead Master App:** [app-leadmaster.flutterflow.app](https://app-leadmaster.flutterflow.app/)
+- **🏥 AgenClinic:** [clinicalessan.flutterflow.app](https://clinicalessan.flutterflow.app/)
 
 ---
 
@@ -73,19 +103,18 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 - **🎓 Gestão em Tecnologia da Informação** - FSBT (2018)
 - **📱 Pós-Graduação em Aplicativos Mobile** - Descomplica (2022)
-- **🔧 Certificações NoCode:** Bubble, FlutterFlow, n8n
 - **🌐 Inglês Intermediário**
 
 ---
 
 ## 💼 Experiência Profissional
 
-**💻 Desenvolvedor Bubble Pleno** - *Fraktal Softwares (2024-2025)*
+**💻 Desenvolvedora Bubble Pleno** - *Fraktal Softwares (2024-2025)*
 - Desenvolvimento full-stack com Bubble e automações n8n
 - Integração de APIs e Webhooks
 - Modelagem de bancos de dados
 
-**🚀 Desenvolvedor Pleno** - *POLITIC MKT (2022-2024)*
+**🚀 Desenvolvedora Pleno** - *POLITIC MKT (2022-2024)*
 - Desenvolvimento NoCode/LowCode (Bubble & FlutterFlow)
 - Implementação de interfaces responsivas
 - Testes automatizados e manuais
@@ -101,7 +130,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 ## 🤝 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalia.santoss07@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987881833)
 
@@ -118,7 +146,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 📱 **Paixão:** Transformar ideias complexas em aplicações simples e funcionais
 
 ---
-
 
 > 📍 **Localização:** São Bernardo do Campo, SP - Brasil  
 > 🕐 **Disponibilidade:** Aberta a novos projetos e oportunidades
