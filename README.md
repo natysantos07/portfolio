@@ -10,7 +10,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 ### **NoCode/LowCode Platforms**
 ![Bubble](https://img.shields.io/badge/Bubble-4285F4?style=for-the-badge&logo=bubble&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Bancos de Dados**
@@ -50,6 +49,7 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 **💎 Precyus** - *Plataforma de Conteúdo*
 - **Descrição:** Sistema completo de criação e gestão de conteúdo
+- Tecnologias: FlutterFlow (Frontend)
 - **Link:** [precyus.com](https://precyus.com/#sobre)
 
 **📊 Lead Master** - *CRM de Vendas*
