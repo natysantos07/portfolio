@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou a Natalia Santos de Souza
+# 👋 Olá! Eu sou a Natalia Souza
 
-## 🚀 Desenvolvedor NoCode/LowCode | Especialista em Bubble & FlutterFlow
+## 🚀 Desenvolvedor NoCode/LowCode | Especialista em Bubble & N8N
 
 Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais de 7 anos de experiência em tecnologia. Atualmente atuo como **Desenvolvedora Bubble Pleno**.
 ---
@@ -119,9 +119,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 ---
 
-⭐ **"Transformando ideias em realidade através do poder do NoCode/LowCode!"**
-
----
 
 > 📍 **Localização:** São Bernardo do Campo, SP - Brasil  
 > 🕐 **Disponibilidade:** Aberta a novos projetos e oportunidades
