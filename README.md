@@ -14,7 +14,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 ### **Bancos de Dados**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Integração & APIs**
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
