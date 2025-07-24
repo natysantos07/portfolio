@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou a Natalia Souza
+# Natalia Souza
 
-## 🚀 Desenvolvedora NoCode/LowCode | Especialista em Bubble & N8N
+## Desenvolvedora NoCode/LowCode | Especialista em Bubble & N8N
 
 Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais de 7 anos de experiência em tecnologia. Atualmente atuo como **Desenvolvedora Bubble Pleno**.
 
@@ -34,14 +34,14 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 - **Tecnologias:** Bubble, APIs REST, Automações
 - **Link:** [app.skyframes.com](https://app.skyframes.com/)
 
-**🐾 Grizz** - *Marketplace Veterinário*
+**🐾 Grizz** - *Marketplace Veterinário Internacional*
 - **Descrição:** Conecta clínicas veterinárias a profissionais freelancers
-- **Tecnologias:** Bubble, FlutterFlow (Mobile)
+- **Tecnologias:** Bubble
 - **Links:** [Web App](https://grizz.app/) | [App Store](https://apps.apple.com/us/app/grizz/id6744370948)
 
 **🛡️ SafeChat** - *IA para Segurança do Trabalho*
 - **Descrição:** Assistente IA integrado ao WhatsApp para gestão de riscos
-- **Tecnologias:** Bubble, Integração WhatsApp, IA
+- **Tecnologias:** Bubble, Integração WhatsApp, IA, N8N
 - **Link:** [safechat.safehelp.com.br](https://safechat.safehelp.com.br/entrar)
 
 ### 📱 **Aplicações Mobile (FlutterFlow)**
@@ -92,9 +92,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 ### **Sistemas de Acesso Público:**
 - **🎪 Mercado Infantil:** [mercadoinfantil.app/version-test](https://mercadoinfantil.app/version-test)
 - **💎 Precyus:** [precyus.com](https://precyus.com/#sobre)
-- **📊 Lead Master Web:** [leadmaster.flutterflow.app](https://leadmaster.flutterflow.app/)
-- **📱 Lead Master App:** [app-leadmaster.flutterflow.app](https://app-leadmaster.flutterflow.app/)
-- **🏥 AgenClinic:** [clinicalessan.flutterflow.app](https://clinicalessan.flutterflow.app/)
 
 ---
 
@@ -110,12 +107,15 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 
 **💻 Desenvolvedora Bubble Pleno** - *Fraktal Softwares (2024-2025)*
 - Desenvolvimento full-stack com Bubble e automações n8n
+- Implementação de agentes autônomos para SDR utilizando IA
 - Integração de APIs e Webhooks
 - Modelagem de bancos de dados
 
-**🚀 Desenvolvedora Pleno** - *POLITIC MKT (2022-2024)*
+**🚀 Desenvolvedora Low Code Pleno** - *POLITIC MKT (2022-2024)*
 - Desenvolvimento NoCode/LowCode (Bubble & FlutterFlow)
 - Implementação de interfaces responsivas
+- Integração de APIs e Webhooks
+- Modelagem de bancos de dados
 - Testes automatizados e manuais
 
 ---
@@ -141,8 +141,6 @@ Sou uma desenvolvedora especializada em soluções **NoCode/LowCode** com mais d
 🎯 **Experiência em projetos:** Nacionais e internacionais, desde startups até grandes corporações
 
 🔧 **Metodologia:** Desenvolvimento ágil, testes contínuos e foco na experiência do usuário
-
-📱 **Paixão:** Transformar ideias complexas em aplicações simples e funcionais
 
 ---
 
